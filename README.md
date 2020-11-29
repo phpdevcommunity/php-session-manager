@@ -1,6 +1,8 @@
 # PHP - $_SESSION MANAGER
 A simple PHP Session Manager
+
 *PHP version required 7.3*
+
 **How to use ?**
 ```php
 $session = new \DevCoder\SessionManager();
