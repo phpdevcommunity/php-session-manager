@@ -1,5 +1,6 @@
 {
     "name": "devcoder-xyz/php-session-manager",
+    "description": "A simple session wrapper class",
     "type": "package",
     "autoload": {
         "psr-4": {
