@@ -1,5 +1,6 @@
 # PHP - $_SESSION MANAGER
-A simple PHP Session Manager
+### A simple PHP Session Manager
+[![Latest Stable Version](https://poser.pugx.org/devcoder-xyz/php-session-manager/v)](//packagist.org/packages/devcoder-xyz/php-session-manager) [![Total Downloads](https://poser.pugx.org/devcoder-xyz/php-session-manager/downloads)](//packagist.org/packages/devcoder-xyz/php-session-manager) [![Latest Unstable Version](https://poser.pugx.org/devcoder-xyz/php-session-manager/v/unstable)](//packagist.org/packages/devcoder-xyz/php-session-manager) [![License](https://poser.pugx.org/devcoder-xyz/php-session-manager/license)](//packagist.org/packages/devcoder-xyz/php-session-manager)
 
 *PHP version required 7.3*
 
