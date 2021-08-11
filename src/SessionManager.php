@@ -4,7 +4,7 @@ namespace DevCoder;
 
 class SessionManager implements SessionInterface
 {
-    public function __construct(string $cacheExpire = null, string $cacheLimiter = null)
+    public function __construct(int $cacheExpire = null, string $cacheLimiter = null)
     {
         if (session_status() === PHP_SESSION_NONE) {
 
